@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Bhanu Prasanna Kumar Neeli  
+# 👋 Hi, I’m Bhanu Neeli  
 
 ## 🌟 About Me  
 I am a passionate and result-oriented **Java Full Stack Developer** with over 2 years of professional experience. My expertise spans both **front-end** and **back-end** technologies, including **Spring Boot**, **Hibernate**, **Angular**, **React Native**, and **Microservices**.  
