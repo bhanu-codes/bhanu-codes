@@ -62,7 +62,7 @@ I aim to contribute to innovative projects in a dynamic environment where I can 
 
 ## 📫 Let’s Connect!  
 - 📧 **Email**: [bhanuneeli2930@gmail.com](mailto:bhanuneeli2930@gmail.com)  
-- 📱 **Phone**: +91 7780701077  
+- 📱 **Phone**: +91 7386915858  
 - 🌐 **LinkedIn**: [Bhanu Prasanna Kumar Neeli](https://www.linkedin.com/in/bhanu-neeli)
 - 💼 **Portfolio**: [bhanu-codes.github.io/portfolio-frontend](https://bhanu-codes.github.io/portfolio-frontend)  
 
