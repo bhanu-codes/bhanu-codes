@@ -8,7 +8,7 @@ I am a passionate and result-oriented **Java Full Stack Developer** with over 2 
 ---
 
 ## 🚀 Career Highlights  
-- **2+ years of experience** in Java development and full-stack application building.  
+- **2.5 + years of experience** in Java development and full-stack application building.  
 - Expertise in **RESTful Web Services**, **GraphQL APIs**, and **Microservices Architecture**.  
 - Proficient in **Apache Kafka** for real-time messaging and data streaming.  
 - Skilled in **React Native** and **AWS AppSync** for mobile and cloud-native application development.  
@@ -63,7 +63,9 @@ I aim to contribute to innovative projects in a dynamic environment where I can 
 ## 📫 Let’s Connect!  
 - 📧 **Email**: [bhanuneeli2930@gmail.com](mailto:bhanuneeli2930@gmail.com)  
 - 📱 **Phone**: +91 7780701077  
-- 🌐 **LinkedIn**: [Bhanu Prasanna Kumar Neeli](https://www.linkedin.com/in/bhanu-neeli)  
+- 🌐 **LinkedIn**: [Bhanu Prasanna Kumar Neeli](https://www.linkedin.com/in/bhanu-neeli)
+- 💼 **Portfolio**: [bhanu-codes.github.io/portfolio-frontend](https://bhanu-codes.github.io/portfolio-frontend)  
+
 
 ---
 
