@@ -1,78 +1,109 @@
-# 👋 Hi, I’m Bhanu Neeli  
+# 👋 Hi, I'm Bhanu Neeli
 
-## 🌟 About Me  
-I am a passionate and result-oriented **Java Full Stack Developer** with over 2 years of professional experience. My expertise spans both **front-end** and **back-end** technologies, including **Spring Boot**, **Hibernate**, **Angular**, **React Native**, and **Microservices**.  
+## 🌟 About Me
 
-💡 I specialize in developing scalable and efficient software solutions, leveraging frameworks like **Spring Boot** and modern cloud technologies such as **AWS**. I thrive in agile environments and love tackling challenges with creativity and a focus on excellence.  
+I'm a **Software Engineer** with **4 years of experience** building and supporting enterprise-grade applications using **Java, Spring Boot, Angular, PostgreSQL, Apache Kafka, REST APIs, and AWS**.
 
----
+Currently, I work at **CGI**, contributing to **Air France's Customer Service Operations (CSO) Tool**, where I develop business-critical features, modernize enterprise applications, integrate backend services, and support production systems.
 
-## 🚀 Career Highlights  
-- **2.5 + years of experience** in Java development and full-stack application building.  
-- Expertise in **RESTful Web Services**, **GraphQL APIs**, and **Microservices Architecture**.  
-- Proficient in **Apache Kafka** for real-time messaging and data streaming.  
-- Skilled in **React Native** and **AWS AppSync** for mobile and cloud-native application development.  
-- Delivered end-to-end solutions in **financial services** and **B2B procurement domains**.  
+I'm passionate about designing scalable software, solving complex engineering problems, and continuously learning emerging technologies. I'm currently expanding my expertise in **Generative AI**, building hands-on projects with **LLMs, RAG, LangChain, Vector Databases, and AI-powered enterprise applications** using Java and Spring Boot.
 
 ---
 
-## 🛠️ Technical Skills  
-- **Programming Languages**: Java, TypeScript, SQL, MySQL, PostgreSQL  
-- **Frameworks**: Spring Boot, Hibernate, Angular, React Native  
-- **Version Control**: Git, IntelliJ IDEA  
-- **Cloud Technologies**: AWS Lambda, AWS AppSync, AWS S3, AWS DynamoDB  
-- **Messaging Systems**: Apache Kafka  
-- **APIs**: REST, GraphQL  
-- **Development Tools**: Maven, Gradle, Agile Methodologies  
+## 🚀 Career Highlights
+
+* **4 years** of experience in Java Full Stack Development.
+* Strong expertise in **Java, Spring Boot, Angular, REST APIs, Microservices, PostgreSQL, and Apache Kafka**.
+* Experience building enterprise applications in **Airline, Finance, eProcurement, and Logistics** domains.
+* Hands-on experience with **application modernization, production support, API integrations, and Agile development**.
+* Leveraging **GitHub Copilot** for AI-assisted development, code reviews, and improved developer productivity.
+* Currently building AI-powered applications using **LLMs, RAG, LangChain, and Vector Search**.
 
 ---
 
-## 📂 Key Projects  
+## 🛠️ Tech Stack
 
-### **Integrated Finance Administration System (IFAS)**  
-- **Role**: Java Full Stack Developer  
-- **Tech Stack**: Java, Spring Boot, Microservices, Apache Kafka, Angular, MySQL  
-- **Highlights**:  
-  - Built scalable microservices for high-volume financial transactions.  
-  - Integrated a Kafka connector for seamless data exchange with external banks.  
-  - Collaborated with stakeholders to resolve critical production issues, improving system reliability.  
+**Languages:** Java, SQL, JavaScript, TypeScript, Python *(Learning)*
 
-### **Berry Box Mobile App**  
-- **Role**: Full Stack Cloud Developer  
-- **Tech Stack**: TypeScript, React Native, AWS Lambda, AWS AppSync, AWS DynamoDB, PostgreSQL  
-- **Highlights**:  
-  - Developed an Order Management System (OMS) backend using AWS services.  
-  - Built user onboarding workflows and API integrations with external vendors.  
-  - Designed and implemented key front-end features using React Native and Redux.  
+**Frameworks:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate, Angular, REST APIs, GraphQL, Microservices
 
-### **e-Procure**  
-- **Role**: Trainee Software Developer  
-- **Tech Stack**: Java, Spring Boot, Angular, Apache Kafka, MySQL  
-- **Highlights**:  
-  - Developed REST APIs and dynamic UIs for lead management using Angular.  
-  - Integrated DocuSign APIs for secure e-signatures.  
-  - Upgraded legacy applications from Java 8 to Java 17 with advanced features like multi-tenancy.  
+**Databases:** PostgreSQL, MySQL, DynamoDB
+
+**Cloud & DevOps:** AWS (Lambda, API Gateway, Cognito, S3, Step Functions), Docker, Jenkins, Git, Gradle, Maven, Liquibase
+
+**Messaging & Monitoring:** Apache Kafka, Dynatrace, COMO
+
+**AI & GenAI (Learning):** Prompt Engineering, OpenAI APIs, LangChain, RAG, Vector Databases
 
 ---
 
-## 🎯 Career Objective  
-I aim to contribute to innovative projects in a dynamic environment where I can apply my skills in **Java Full Stack Development** to deliver impactful solutions. I am actively seeking a challenging role in a reputed company that values technical expertise and collaboration.  
+## 📂 Professional Experience
+
+### ✈️ Air France – Customer Service Operations (CSO Tool) | CGI
+
+**Tech Stack:** Java • Spring Boot • Angular • PostgreSQL • REST APIs • Dynatrace • COMO • Azure
+
+* Engineered the **Flight Disruptions Dashboard** to provide operational visibility into disrupted flights and shipment impacts.
+* Developed reusable Angular components from Figma designs and collaborated with backend teams to deliver scalable features.
+* Built a centralized **Maintenance Notification** module for platform-wide operational announcements.
+* Upgraded applications from **Angular 18 → 19** and contributed to **Spring Boot 3 → 4** migration.
+* Investigated and resolved production incidents using **Dynatrace** and supported regular production deployments.
+* Adopted **GitHub Copilot** to accelerate development and improve code quality through AI-assisted coding and code reviews.
 
 ---
 
-## 📫 Let’s Connect!  
-- 📧 **Email**: [bhanuneeli2930@gmail.com](mailto:bhanuneeli2930@gmail.com)  
-- 📱 **Phone**: +91 7386915858  
-- 🌐 **LinkedIn**: [Bhanu Prasanna Kumar Neeli](https://www.linkedin.com/in/bhanu-neeli)
-- 💼 **Portfolio**: [bhanu-codes.github.io/portfolio-frontend](https://bhanu-codes.github.io/portfolio-frontend)  
+### 💼 TrimindTech Solutions Pvt. Ltd.
 
+Worked on enterprise applications across **Finance, eProcurement, and Logistics** domains.
+
+#### Integrated Finance Management System
+
+* Developed a centralized **Reference Data** module for application configuration and master data management.
+* Implemented **25+ REST APIs** integrating external banking platforms using REST/SOAP interoperability.
+* Built event-driven services using **Apache Kafka**.
+* Accelerated UI development using **Form.io** with reusable custom components.
+* Managed database versioning using **Liquibase** and supported production Go-Live activities.
+
+#### Berry Box
+
+* Developed backend services for Order Management workflows.
+* Integrated third-party APIs for customer and vendor onboarding.
+* Contributed to React Native mobile application development.
+
+#### eProcure
+
+* Developed Lead Management modules using Spring Boot and Angular.
+* Integrated **DocuSign APIs** for electronic document signing.
+* Modernized enterprise applications by migrating from **Java 8 to Java 17**.
 
 ---
 
-✨ *Explore my repositories to see my projects and contributions!*  
+## 🌱 Currently Learning
 
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* LangChain
+* Prompt Engineering
+* Vector Databases
+* AI Agents
+* Enterprise AI Applications
 
-<!---
-bhanuneeli2930/bhanuneeli2930 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🎯 Career Goal
+
+To build scalable, cloud-native, and AI-powered enterprise applications while growing into a Software Engineer specializing in **Distributed Systems, Generative AI, and Intelligent Enterprise Solutions**.
+
+---
+
+## 📫 Let's Connect
+
+📧 **Email:** [bhanuneeli2930@gmail.com](mailto:bhanuneeli2930@gmail.com)
+
+💼 **LinkedIn:** https://www.linkedin.com/in/bhanu-neeli
+
+🌐 **Portfolio:** https://bhanu-codes.github.io/portfolio-frontend
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories, and let's connect to discuss Java, Full Stack Development, Distributed Systems, and Generative AI.
