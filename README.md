@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Bhanu Neeli]([url](https://bhanu-codes.github.io/portfolio))
+# 👋 Hi, I'm Bhanu Neeli
 
 ## 🌟 About Me
 
