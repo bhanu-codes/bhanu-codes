@@ -102,7 +102,7 @@ To build scalable, cloud-native, and AI-powered enterprise applications while gr
 
 💼 **LinkedIn:** https://www.linkedin.com/in/bhanu-neeli
 
-🌐 **Portfolio:** https://bhanu-codes.github.io/portfolio-frontend
+🌐 **Portfolio:** https://bhanu-codes.github.io/portfolio
 
 ---
 
